@@ -1,20 +1,18 @@
 const CONFIG = {
-    titleWeb: "Yêu anh",
-    introTitle: 'iu Nam',
+    titleWeb: "tramie cute",
+    introTitle: 'Yêu gánh xiếc số 3 🤡',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'Gửi Nam',
-    title: 'Anh có yêu em không 🥰',
-    desc: 'Có muốn về nhà với em không ',
-    btnYes: 'Thích lắm <33',
+    btnIntro: 'Gửi mng',
+    title: 'Tối thứ 7 tuần này em có việc🥰',
+    desc: 'Em xin phép mng cho em vắng nhaa ',
+    btnYes: 'Ok lunn',
     btnNo: 'Không nha :3',
-    question: 'Anh có iu em nhiều khumm',
-    btnReply: 'Trả lời thật nhé :)',
-    reply: 'Anh không',
-    mess: 'Á à giỏi lắm',
-    messDesc: 'Tối thứ 7, mình gặp nhau nói chuyện .',
+    question: 'Em iu mng nhiều'
+    mess: 'hí hí',
+    messDesc: 'Hẹn mng khi được off nhaaa .',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/mycutedapxekhongcanxich'
+    messLink: 'https://www.facebook.com/messages/t/4797136730310080'
 }
