@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Yêu anh",
-    introTitle: 'Tên người yêu bạn',
+    introTitle: 'iu Nam',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
